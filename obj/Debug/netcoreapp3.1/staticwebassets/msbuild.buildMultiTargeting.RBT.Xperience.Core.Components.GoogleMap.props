@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RBT.Xperience.Core.Components.GoogleMap.props" />
+</Project>
