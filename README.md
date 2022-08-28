@@ -18,9 +18,8 @@ This is a widget which allows you to add a GoogleMap to your screen with certain
 
 Make sure to insert your Google Maps API token into appSettings.json:
 
-    <code>
-          "GoogleMapsApiKey":"{key}"
-     </code> <br>
+    "GoogleMapsApiKey":"{key}"
+  
 # Author
 
 This widget was created by Vasu Yerramsetting @ Ray Business Technologies Pvt Ltd.
