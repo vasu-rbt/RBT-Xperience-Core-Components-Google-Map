@@ -4,7 +4,7 @@ It displays map obtained from the Google maps service using Latitude,Longitude a
 
 # Installation
 
-Install the RBT.Xperience.Core.Components.GoogleMap 1.0.0 NuGet Package to your Kentico Xperience 13 Core WebSite. 
+Install the [RBT.Xperience.Core.Components.GoogleMap.1.0.0.nupkg](https://www.nuget.org/packages/RBT.Xperience.Core.Components.GoogleMap) NuGet Package to your Kentico Xperience 13.0.73 Core WebSite. 
 
 # Widget
 
@@ -37,3 +37,6 @@ Please report any issues seen, in the issue list. We will address at the earlies
 This widget has been tested on Kentico Xperiecne 13.0.73 Core and can be used on Kentico Xperiecne 13.0.73 Core instance and higher.
 # Uninstall instructions
 
+After uninstalling this package from the solution, if you are still seeing the widget on the page tab in Kentico CMS then please follow the below steps.
+
+Go to Solution -> Select Bin folder -> Select the specific widget dll(Ex:RBT.Xperience.Core.Components.YouTubeVideo.dll and RBT.Xperience.Core.Components.YouTubeVideo.Views.dll) and delete from Debug Or Release folders and Rebuild the solution
