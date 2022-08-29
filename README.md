@@ -39,4 +39,4 @@ This widget has been tested on Kentico Xperiecne 13.0.73 Core and can be used on
 
 After uninstalling this package from the solution, if you are still seeing the widget on the page tab in Kentico CMS then please follow the below steps.
 
-Go to Solution -> Select Bin folder -> Select the specific widget dll(Ex:RBT.Xperience.Core.Components.YouTubeVideo.dll and RBT.Xperience.Core.Components.YouTubeVideo.Views.dll) and delete from Debug Or Release folders and Rebuild the solution
+Go to Solution -> Select Bin folder -> Select the specific widget dll (Ex: RBT.Xperience.Core.Components.YouTubeVideo.dll and RBT.Xperience.Core.Components.YouTubeVideo.Views.dll ) and delete from Debug Or Release folders and Rebuild the solution
