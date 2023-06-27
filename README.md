@@ -22,7 +22,7 @@ Make sure to insert your Google Maps API token into appSettings.json:
   
 # Author
 
-This widget was created by Vasu Yerramsetting @ Ray Business Technologies Pvt Ltd.
+This widget was created by Vasu Yerramsetti @ Ray Business Technologies Pvt Ltd.
 
 # License
 
